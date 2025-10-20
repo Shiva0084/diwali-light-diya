@@ -36,7 +36,7 @@
 
 		setTimeout(() => {
 			quotePopup.classList.add('hidden');
-		}, 3000);
+		}, 7000);
 	}
 	function createDiya(i) {
 		const el = document.createElement('button');
